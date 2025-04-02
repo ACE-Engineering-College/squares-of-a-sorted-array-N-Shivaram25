@@ -11,6 +11,7 @@ int* sortedSquares(int* nums, int numsSize, int* returnSize) {
 
     int left = 0, right = numsSize - 1;
     int index = numsSize - 1;
+    
 
   
     while (left <= right) {

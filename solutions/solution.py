@@ -6,7 +6,7 @@ class Solution:
         result = [0] * n  # Create an output array of the same size
         left, right = 0, n - 1
         index = n - 1  # Start filling from the end
-        #hello there shreekar
+        #hello there rakesh
         while left <= right:
             left_square = nums[left] ** 2
             right_square = nums[right] ** 2
